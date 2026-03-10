@@ -1,10 +1,10 @@
 #!/bin/bash
 
-WATCH_DIR="$HOME/patient_records"
+WATCH_DIR="$HOME/robot_records"
 WINDOWS_USER="robot"
-WINDOWS_IP="192.168.0.175"
+WINDOWS_IP="192.168.x.xxx"
 WINDOWS_PATH="/home/robot/Documents"
-WIN_PASS="Ninos@2025"
+WIN_PASS="Ninos@2026"
 
 echo "Monitoring $WATCH_DIR for new txt files..."
 
